@@ -1,4 +1,4 @@
-# Night Productivity
+<img width="1599" height="807" alt="image" src="https://github.com/user-attachments/assets/79675e43-e74f-4266-b1ac-810ecf201b1c" /># Night Productivity
 
 A Minecraft Paper plugin that turns the late night experience into a psychological survival hazard.
 
@@ -7,6 +7,8 @@ You can always stay awake at night.. but do you dare to ? Will the hallucination
 Your vision *will* get blurry, you *will* feel dizzy, move heavier, items will start *slipping* from your hands, and... you'll start seeing things..
 
 Maybe the PTSD wasn't cured after all.
+
+[Watch the gameplay demo](https://youtu.be/Yt21-PsNMZc)
 
 ## How it works
 
