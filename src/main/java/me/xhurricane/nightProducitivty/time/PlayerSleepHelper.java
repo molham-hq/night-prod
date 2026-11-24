@@ -1,4 +1,4 @@
-package me.xhurricane.nightProducitivty.sleep;
+package me.xhurricane.nightProducitivty.time;
 
 import me.xhurricane.nightProducitivty.NightProductivity;
 import org.bukkit.Statistic;
