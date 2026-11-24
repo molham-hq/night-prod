@@ -2,9 +2,16 @@
 # 1000 ticks = 1 hour
 # e.g. 21000 ticks makes it so a player starts hallucinating at 3 AM and beyond
 # Maximum is 23999. Sunrise happens at 24000.
-hallucinate-time: 21000
+hallucinate-time: 19000
+
+# How many seconds between each hallucination attempt
+hallucinate-interval: 10
 
 # An extra percentage added each time when calculating whether the player will
 # hallucinate or not. the bigger, the more often the player will hallucinate.
 # e.g. 0.50 is an extra %50
 hallucinate-bias: 0.10
+
+# The distance between the player and creeper when hallucinating.
+# e.g. 2 blocks means the creeper is behind the player by 2 blocks.
+creeper-distance: 2

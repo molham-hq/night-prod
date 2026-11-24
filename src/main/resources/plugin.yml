@@ -1,5 +1,6 @@
-name: Night Producitivty
+name: NightProductivity
 version: '1.0-SNAPSHOT'
-main: me.xhurricane.nightProducitivty.NightProducitivty
+main: me.xhurricane.nightProductivity.NightProductivity
 api-version: '1.21'
 author: xHurricane
+depend: [packetevents]

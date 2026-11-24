@@ -1,6 +1,6 @@
-package me.xhurricane.nightProducitivty.util;
+package me.xhurricane.nightProductivity.util;
 
-import me.xhurricane.nightProducitivty.hallucinate.Hallucination;
+import me.xhurricane.nightProductivity.hallucinate.Hallucination;
 
 import java.util.Random;
 

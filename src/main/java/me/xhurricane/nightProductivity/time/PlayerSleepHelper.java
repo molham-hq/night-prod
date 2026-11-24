@@ -1,6 +1,6 @@
-package me.xhurricane.nightProducitivty.time;
+package me.xhurricane.nightProductivity.time;
 
-import me.xhurricane.nightProducitivty.NightProductivity;
+import me.xhurricane.nightProductivity.NightProductivity;
 import org.bukkit.Statistic;
 import org.bukkit.World;
 import org.bukkit.entity.Player;
