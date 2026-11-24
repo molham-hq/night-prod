@@ -1,4 +1,4 @@
-<img width="1599" height="807" alt="image" src="https://github.com/user-attachments/assets/79675e43-e74f-4266-b1ac-810ecf201b1c" /># Night Productivity
+# Night Productivity
 
 A Minecraft Paper plugin that turns the late night experience into a psychological survival hazard.
 
