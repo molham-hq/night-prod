@@ -1,0 +1,4 @@
+# How many ticks after sunrise (6 AM) should happen before the player starts hallucinating.
+# 1000 ticks = 1 hour
+# e.g. 21000 ticks makes it so a player starts hallucinating at 3 AM and beyond
+hallucinate-time: 21000
