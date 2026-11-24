@@ -1,0 +1,5 @@
+name: Night Producitivty
+version: '1.0-SNAPSHOT'
+main: me.xhurricane.nightProducitivty.NightProducitivty
+api-version: '1.21'
+author: xHurricane
